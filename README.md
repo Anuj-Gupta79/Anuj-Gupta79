@@ -71,15 +71,6 @@ Full Stack: Node.js + React + MongoDB
 
 ---
 
-## 🔹 Microservices System  
-Spring Boot + Spring Cloud + Docker  
-
-✔ API Gateway  
-✔ Service Discovery  
-✔ Distributed architecture  
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
