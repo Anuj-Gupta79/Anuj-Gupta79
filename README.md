@@ -1,38 +1,139 @@
-[![MasterHead](https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif)](github.com/Anuj-Gupta79)
+<!-- PREMIUM HEADER WITH GRADIENT -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anuj%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-gupta79&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-gupta79" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-gupta79" alt="anuj-gupta79" /></a> </p>
-
-- 🔭 I’m currently working on **Food Delievery App**
-
-- 🌱 I’m currently learning **MERN, Web Devlopment**
-
-- 💬 Ask me about **NodeJs, Spring Boot, React**
-
-- 📫 How to reach me **anujgupta7906@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gupta_anuj89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gupta_anuj89" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guptaanuj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptaanuj9" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anuj gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anuj gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/anujgupta7906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujgupta7906" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anujgupta7906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anujgupta7906" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anujgupta89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujgupta89" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anujgupta7906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anujgupta7906" height="30" width="40" /></a>
+<!-- TYPING ANIMATION -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Spring+Boot+%7C+Node.js+Expert;Angular+%7C+React+Developer;Microservices+%7C+REST+API+Specialist&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-gupta79&show_icons=true&locale=en&layout=compact" alt="anuj-gupta79" /></p>
+# 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-gupta79&" alt="anuj-gupta79" /></p>
+💼 Full Stack Developer with strong backend expertise  
+⚡ Specializing in **Spring Boot, Node.js, Angular, React**  
+🏗️ Building scalable fullstack and microservices systems  
+📈 Passionate about system design and performance optimization  
+
+💬 Open to:
+
+- Open Source Contributions  
+- Freelance Projects  
+- Full Time SDE Roles  
+
+📧 Email: **anujgupta7906@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/guptaanuj9">
+<img src="https://img.shields.io/badge/LinkedIn-Anuj%20Gupta-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anujgupta7906@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,react,postgres,mongodb,mysql,docker,aws,git,linux&perline=6"/>
+</p>
+
+---
+
+# 🌟 Featured Full Stack Projects
+
+## 🔹 FlowSync – Workflow Management System  
+Full Stack: Spring Boot + Angular + PostgreSQL  
+
+✔ REST API backend  
+✔ Angular frontend  
+✔ Secure authentication  
+✔ Enterprise architecture  
+
+---
+
+## 🔹 GoHunger – Food Delivery Application  
+Full Stack: Node.js + React + MongoDB  
+
+✔ Authentication system  
+✔ Order management  
+✔ REST APIs  
+✔ Responsive UI  
+
+---
+
+## 🔹 Microservices System  
+Spring Boot + Spring Cloud + Docker  
+
+✔ API Gateway  
+✔ Service Discovery  
+✔ Distributed architecture  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuj-gupta79&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuj-gupta79&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=anuj-gupta79&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj-gupta79&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 👁️ Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anuj-gupta79&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+# 💡 Professional Focus
+
+✔ Full Stack Development  
+✔ Backend Engineering  
+✔ Microservices Architecture  
+✔ Scalable System Design  
+
+---
+
+# ⚡ Quote
+
+"First, solve the problem. Then, write the code."
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
